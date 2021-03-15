@@ -3,8 +3,8 @@ import * as Cmpt from './example';
 
 function App() {
   return (
-    <div className="App">
-      <Cmpt.PreventingTransitions/>
+    <div className='App'>
+      <Cmpt.PreventingTransitions />
     </div>
   );
 }
