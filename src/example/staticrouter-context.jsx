@@ -1,4 +1,5 @@
-import React, { Component } from "react";
+//import React, { Component } from "react";
+import { Component } from "react";
 import { StaticRouter as Router, Route } from "react-router-dom";
 
 // This example renders a route within a StaticRouter and populates its

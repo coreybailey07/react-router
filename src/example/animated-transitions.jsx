@@ -1,6 +1,6 @@
 import "./animated-transitions.scss";
 
-import React from "react";
+// import React from "react";
 import {
   TransitionGroup,
   CSSTransition
