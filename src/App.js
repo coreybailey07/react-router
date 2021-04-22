@@ -10,7 +10,7 @@ function App() {
   return (
     <div className='app'>
       <nav className='nav'>
-        <Link className='link disabled' to='/react-router/animate-transitions'>animate-transitions</Link>
+        <Link className='link' to='/react-router/animate-transitions'>animate-transitions</Link>
         <Link className='link' to='/react-router/basic'>basic</Link>
         <Link className='link' to='/react-router/custom-link'>custom-link</Link>
         <Link className='link disabled' to='/react-router/model-gallery'>model-gallery</Link>
