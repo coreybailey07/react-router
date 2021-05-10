@@ -119,7 +119,8 @@ styles.fill = {
 styles.content = {
   ...styles.fill,
   top: "40px",
-  textAlign: "center"
+  textAlign: "center",
+  height: "300px"
 };
 
 styles.nav = {

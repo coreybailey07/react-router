@@ -1,7 +1,7 @@
 React Router
 ============
 
-[React Router](https://github.com/coreybailey07/react-router) - Simple react-router examples for me to play with deployed on gh-pages.
+[React Router](https://github.com/coreybailey07/react-router) - Simple react-router examples for me to play with, deployed on gh-pages.
 
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/coreybailey07/react-router)
 ![GitHub release (latest SemVer including pre-releases)](https://img.shields.io/github/v/release/coreybailey07/react-router?include_prereleases)
