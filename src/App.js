@@ -1,10 +1,10 @@
 //import React from 'react';
 import { Route, Switch, Link } from 'react-router-dom';
 
-import './example/example.scss';
-import './App.css';
-
 import * as cmpt from './example';
+
+import './App.css';
+import './example/example.scss';
 
 function App() {
   return (
